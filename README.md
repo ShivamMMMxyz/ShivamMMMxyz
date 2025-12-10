@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">MERN Stack • React Native • AI/ML • IoT • Data Science</h3>
+<h3 align="center"> AI/ML • Data Science • MERN Stack • React Native •</h3>
 
 <p align="center">
   <a href="https://github.com/ShivamMMMxyz">
